@@ -1,0 +1,25 @@
+{
+  "name": "testinstacarro",
+  "version": "1.0.0",
+  "description": "test api genderize",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandyAbreu/test-instacarro.git"
+  },
+  "author": "Randy Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RandyAbreu/test-instacarro/issues"
+  },
+  "homepage": "https://github.com/RandyAbreu/test-instacarro#readme",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
