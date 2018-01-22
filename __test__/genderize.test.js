@@ -33,7 +33,7 @@ describe('Testing the Genderize api',() => {
 
 	});
 
-	it('Test multi name endpoint',() =>{
+	it('Test multi name length endpoint',() =>{
 
 		const endpoint = '?name[0]=peter&name[1]=lois&name[2]=stevie';
 
